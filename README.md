@@ -1,4 +1,3 @@
-# Faith_Fernando
 # 👋 Hi, I'm Faith Fernando
 
 I'm a Data Analyst passionate about turning data into actionable insights using Python, R, and Power BI.
